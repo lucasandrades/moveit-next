@@ -13,7 +13,7 @@ export function Countdown() {
     const [secondLeft, secondRight] = String(seconds).padStart(2,'0').split('');
 
     function startCountdown() {
-        setActive(true); 
+        setActive(true) 
     }
 
     useEffect(() => {
