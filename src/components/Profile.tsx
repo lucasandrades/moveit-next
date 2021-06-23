@@ -1,5 +1,4 @@
 /* eslint-disable @next/next/no-img-element */
-
 import styles from '../styles/components/Profile.module.css';
 
 export function Profile() {
